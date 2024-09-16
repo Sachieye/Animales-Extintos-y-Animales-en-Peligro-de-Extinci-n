@@ -14,7 +14,7 @@
       <nav>
 
         <a href="#Extintos"> Extintos </a>
-        <a href="#peligro"> Peligro de Extincion </a>
+        <a href="#peligro"> Peligro de Extinción </a>
 
       </nav>
 
@@ -23,7 +23,7 @@
 
     <main>
 
-        <h1> Animales Extintos y Animales en Peligro de Extincion </h1>
+        <h1> Animales Extintos y Animales en Peligro de Extinción </h1>
        
 
        <section class="introduccion">
@@ -65,15 +65,15 @@
 
             <li> Comen casi exclusivamente brotes y hojas de bambú. Pero su sistema digestivo se parece más al de un carnívoro. </li>
 
-            <li> Ellos no hibernan </li>
+            <li> Ellos no hibernan. </li>
 
-            <li>Son tesoros nacionales en China</li>
+            <li>Son tesoros nacionales en China.</li>
 
-            <li> Los pandas cautivos pueden comportarse de manera diferente a los pandas salvajes debido a su entorno y su dependencia de los humanos</li>
+            <li> Los pandas cautivos pueden comportarse de manera diferente a los pandas salvajes debido a su entorno y su dependencia de los humanos.</li>
 
-            <li>Su tiempo de reproduccion es muy corto</li>
+            <li>Su tiempo de reproduccion es muy corto.</li>
 
-            <li>Se mueven de forma lenta sobre el suelo</li>
+            <li>Se mueven de forma lenta sobre el suelo.</li>
 
 
           </ul>
@@ -124,7 +124,7 @@
 
        <section id="peligro">
 
-        <article> <h2> Animales en Peligro de Extincion</h2> </article>
+        <article> <h2> Animales en Peligro de Extinción</h2> </article>
 
         <article>
           
@@ -187,8 +187,8 @@
 
       <p> Este contenido fue extraido de: google, veice. ai, National Geographic, pixabay...</p>
 
-      <a href="https://www.ngenespanol.com/">Mas informacion</a>  
-      <a href="https://www.ecologiaverde.com/como-cuidar-el-medio-ambiente-3789.html">Como Ayudar?</a>    
+      <a href="https://www.ngenespanol.com/">Más informacion</a>  
+      <a href="https://www.ecologiaverde.com/como-cuidar-el-medio-ambiente-3789.html">Cómo Ayudar?</a>    
      
 
     </footer>
