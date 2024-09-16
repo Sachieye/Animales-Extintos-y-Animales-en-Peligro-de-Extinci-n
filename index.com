@@ -3,7 +3,7 @@
   <head>
 
     <title> Animales Extintos y Animales en Peligro de Extincion </title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css"/>
 
   </head>
 
